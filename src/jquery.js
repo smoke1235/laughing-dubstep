@@ -1,10 +1,9 @@
 define([
-	"./plugins",
-	"./dateTime",
-	"./iscroll",
-	"./jquery.plugins",
-	"./lang_en-EN",
-	"./script"
+	"./plugins"
+	//"./dateTime",
+	//"./iscroll",
+	//"./lang_en-EN",
+	//"./script"
 ], function( jQuery ) {
 
 return jQuery;
