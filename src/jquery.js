@@ -1,4 +1,5 @@
 define([
+	"./plugins",
 	"./dateTime",
 	"./iscroll",
 	"./jquery.plugins",
